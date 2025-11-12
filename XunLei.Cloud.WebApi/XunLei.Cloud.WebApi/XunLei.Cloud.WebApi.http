@@ -1,0 +1,6 @@
+@XunLei.Cloud.WebApi_HostAddress = http://localhost:5210
+
+GET {{XunLei.Cloud.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
