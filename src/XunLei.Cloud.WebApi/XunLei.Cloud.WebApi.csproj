@@ -8,6 +8,7 @@
 
   <ItemGroup>
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    <PackageReference Include="XunLei.Cloud" Version="1.0.2" />
   </ItemGroup>
 
 </Project>
